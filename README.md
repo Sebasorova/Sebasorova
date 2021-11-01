@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
 
+Discord: PistonSebas#9530
+
 Email: sebasorova@protonmail.com
-Donate: paypal.me/Sebasorovaa
+
+Donate: https://paypal.me/Sebasorovaa
 
 <!---
 SebastianSoftware/SebastianSoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
