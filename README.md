@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
 
-Discord: PistonSebas#9530
+Discord: Sebasorova#0001
 
 Email: sebasorova@protonmail.com
 
