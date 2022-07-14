@@ -1,0 +1,14 @@
+{
+  "short_name": "Pegazzo Telcom Estado",
+  "name": "Mira el Estado de todos los Servicios en linea de Pegazzo Telcom",
+  "icons": [
+    {
+      "src": "https://pegazzotelcom.com/wp-content/uploads/2021/12/Logos-pegazzo-05-1.png",
+      "type": "image/png",
+      "sizes": "83x83"
+    }
+  ],
+  "start_url": "https://status.pegazzotelcom.com",
+  "display": "standalone",
+  "theme_color": "#304c5c"
+}
