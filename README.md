@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
 - 🍃 Programming since I was 5, created an antivirus at 7 and won an oratory contest talking about cibersecurity at the age of 8
-- 🎑 14 years old
+- 🎑 15 years old
 - 📫 How to reach me:
 
 Discord: Sebasorova#0001
 
 Email: sebasorova@protonmail.com
 
-Donate: https://paypal.me/Sebasorovaa
+Patreon: https://patreon.com/Sebasorova
 
 <!---
 SebastianSoftware/SebastianSoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
