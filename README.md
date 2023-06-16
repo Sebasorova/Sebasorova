@@ -1,4 +1,4 @@
-<span style="font-size: 40px;">Sebasorova</span>
+<h1 align="center">Sebasorova</h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SebastianSoftware&color=blue"/> 
 </p>
@@ -9,21 +9,21 @@
 - 💞️ I’m looking to collaborate on projects
 - 🍃 Programming since I was 5, created an antivirus at 7 and won an oratory contest talking about cibersecurity at the age of 8
 - 🎑 15 years old
-- 📫 How to reach me:
-
-Discord: Sebasorova#6972
-
+<h2 align="center">📫 How to reach me:</h2>
+<p align="center">
+Discord: Sebasorova#6972<br><br>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-Sebasorova6972-5662f6.svg?logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/sebasyt_oficial"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@sebasyt_oficial-1da1f2.svg?logo=twitter&logoColor=white"></a>
-
-Support me
-
+</p>
+<h2 align="center">Support me</h2>
+<p align="center">
 <a href="https://patreon.com/Sebasorova"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-fb6855.svg?logo=patreon&logoColor=white"></a>
-
-<h4 align="center">Langs (including html and scripts)</h4>
+<a href="https://paypal.me/Sebasorovaa"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-0d3883.svg?logo=paypal&logoColor=white"></a>
+</p>
+<h2 align="center">Langs (including html and scripts)</h4>
 
 <p align="center">
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -36,7 +36,7 @@ Support me
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-007481.svg?logo=arduino&logoColor=white"></a>
 </p>
 
-<h4 align="center">Frameworks</h4>
+<h2 align="center">Frameworks</h4>
 
 <p align="center">
 <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
@@ -45,7 +45,7 @@ Support me
 <a href="#"><img alt="Discord.js" src="https://img.shields.io/badge/discord.js-5662f6.svg?logo=discord&logoColor=white"></a>
 </p>
 
-<h4 align="center">Software</h4>
+<h2 align="center">Software</h4>
 
 <p align="center">
 <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
@@ -57,7 +57,7 @@ Support me
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00769c.svg?logo=wordpress&logoColor=white"></a>
 </p>
 
-<h4 align="center">Services</h4>
+<h2 align="center">Services</h4>
 
 <p align="center">
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
