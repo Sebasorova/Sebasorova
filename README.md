@@ -43,6 +43,7 @@ Discord: Sebasorova#6972<br><br>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="GodotScript" src="https://img.shields.io/badge/GodotScript-478cbf.svg?logo=godotengine&logoColor=white"></a>
 <a href="#"><img alt="Discord.js" src="https://img.shields.io/badge/discord.js-5662f6.svg?logo=discord&logoColor=white"></a>
+<a href="#"><img alt="PaperMC" src="https://img.shields.io/badge/PaperMC-4D4E52.svg?logo=minecraft&logoColor=white"></a>
 </p>
 
 <h2 align="center">Software</h4>
