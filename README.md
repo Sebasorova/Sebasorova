@@ -3,12 +3,11 @@
     <img src="https://komarev.com/ghpvc/?username=SebastianSoftware&color=blue"/> 
 </p>
 
-- 👋 Hi, I’m @SebastianSoftware
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java (Fabric and PaperMC)
 - 💞️ I’m looking to collaborate on projects
 - 🍃 Programming since I was 5, created an antivirus at 7 and won an oratory contest talking about cibersecurity at the age of 8
 - 🎑 15 years old
+  
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
 Discord: Sebasorova#6972<br><br>
