@@ -4,14 +4,12 @@
 </p>
 
 - 🌱 I’m currently learning Java (Fabric and PaperMC)
-- 💞️ I’m looking to collaborate on projects
 - 🍃 Programming since I was 5, created an antivirus at 7 and won an oratory contest talking about cibersecurity at the age of 8
 - 🎑 15 years old
   
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
-Discord: Sebasorova#6972<br><br>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-Sebasorova6972-5662f6.svg?logo=discord&logoColor=white"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-Sebasorova-5662f6.svg?logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/sebasyt_oficial"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@sebasyt_oficial-1da1f2.svg?logo=twitter&logoColor=white"></a>
 </p>
 <h2 align="center">Support me</h2>
